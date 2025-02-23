@@ -1,0 +1,50 @@
+\include{../preambulo.tex}
+
+% Variables
+\newcommand{\titulo}{Instalación de Linux}
+\newcommand{\ipnLogo}{../media/logotipo_ipn.png}
+\newcommand{\escomLogo}{../media/logoESCOM.png}
+\newcommand{\noTarea}{Tarea 1}
+\newcommand{\alumno}{Campos Zeron Salvador}
+\newcommand{\curso}{Bases de Datos}
+\newcommand{\grupo}{3CM5}
+\newcommand{\fecha}{\date{27 de febrero de 2025}}
+\newcommand{\mainImage}{./img/pop_os.png}
+
+% Colores
+\definecolor{guinda}{HTML}{800040}
+\definecolor{navy}{HTML}{000080}
+
+% FancyHDR
+\setlength{\headheight}{40.2pt}
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{\includegraphics[width=2cm]{\escomLogo}}
+\rhead{\includegraphics[height=1.5cm]{\mainImage}}
+\renewcommand{\headrulewidth}{1pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{navy}\leaders\hrule height \headrulewidth\hfill}}
+
+% lstListing
+\lstset{
+  basicstyle=\ttfamily\small,
+  keywordstyle=\color{blue},
+  stringstyle=\color{red},
+  commentstyle=\color{gray},
+  backgroundcolor=\color{lightgray!20},
+  frame=single,
+  tabsize=4,
+  numbers=left,
+  numberstyle=\tiny\color{gray}
+}
+
+\begin{document}
+  % Portada
+  \input{../portada.tex}
+  % Table of content
+  \clearpage
+  \tableofcontents
+  \clearpage
+  \input{Seccion1.tex}
+  \input{Seccion2.tex}
+  \input{Conclusiones.tex}
+\end{document}

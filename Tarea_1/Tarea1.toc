@@ -1,0 +1,13 @@
+\babel@toc {spanish}{}\relax 
+\contentsline {section}{\numberline {1}Investigación previa}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Datos en linux hardware}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Requerimientos de Pop OS}{3}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}Requerimientos minimos}{3}{subsubsection.1.2.1}%
+\contentsline {section}{\numberline {2}Preparacion del equipo}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Respaldo de datos}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Descarga de los prerequisitos}{3}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Instalación de la iso}{3}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Instalación de Rufus}{4}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Flasheo de la USB}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Instalación del sistema en el disco}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Conclusiones}{6}{section.3}%
