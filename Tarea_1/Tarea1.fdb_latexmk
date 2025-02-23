@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1740349212 "Tarea1.tex" "Tarea1.pdf" "Tarea1" 1740349212
+["pdflatex"] 1740350329 "Tarea1.tex" "Tarea1.pdf" "Tarea1" 1740350329
   "../media/logoESCOM.png" 1739761979 9800 42a3a1164f2591420ac177bf7d43de9b ""
   "../media/logotipo_ipn.png" 1739761946 47386 9a06fa6d52e2d1022bad05247cf7e883 ""
   "../portada.tex" 1739768327 785 519b89edb84834a559455fc9b65dd7a3 ""
@@ -210,13 +210,13 @@
   "/usr/share/texmf/web2c/texmf.cnf" 1644012257 39432 7155514e09a3d69036fac785183a21c2 ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1739754674 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1739754695 2799086 163f013d1cdf28c842fb0a4bdcb99361 ""
-  "Conclusiones.tex" 1740349211 1007 630945c3516acb6e797e6b8dd7e5c8bf ""
+  "Conclusiones.tex" 1740349247 1007 630945c3516acb6e797e6b8dd7e5c8bf ""
   "Seccion1.tex" 1740340182 2696 99ec0f943fb294bb25e6729ce4ff497f ""
   "Seccion2.tex" 1740348545 4197 3376cb173deed2fdc2b59d7010b139dc ""
-  "Tarea1.aux" 1740349162 3793 486a5db2035745a22e38b06ea8da7131 "pdflatex"
-  "Tarea1.out" 1740349162 1977 e26d8a5858413bb783be5423d5744810 "pdflatex"
+  "Tarea1.aux" 1740349213 3902 95a144f9a17cb43e68f93d4614bbee3d "pdflatex"
+  "Tarea1.out" 1740349213 2081 27954df994fd6295288d87cc3017d17a "pdflatex"
   "Tarea1.tex" 1740349160 1263 b0485a09a529da83a274a169c955988a ""
-  "Tarea1.toc" 1740349162 1020 e8ce059a01b1c3226d78dba3d8d6d613 "pdflatex"
+  "Tarea1.toc" 1740349213 1088 05b4d8acd2f42354a652ac903d33365c "pdflatex"
   "img/download_popos.jpeg" 1739846548 115407 2643ec43a39f40f66436bd99c648dc4c ""
   "img/download_rufus.jpeg" 1739846504 177330 a5a490b1c8ad2910a7ddebecb9f944fe ""
   "img/particionado.jpeg" 1739846726 677439 65c4c94e47e5bcb7415b7f19fbcfdc98 ""

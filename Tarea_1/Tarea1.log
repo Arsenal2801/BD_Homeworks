@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.16)  23 FEB 2025 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2025.2.16)  23 FEB 2025 16:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -954,12 +954,12 @@ LaTeX Info: Redefining \nameref on input line 40.
 \openout4 = `Tarea1.out'.
 
  (../portada.tex
-<../media/logotipo_ipn.png, id=87, 1235.61626pt x 1323.94624pt>
+<../media/logotipo_ipn.png, id=91, 1235.61626pt x 1323.94624pt>
 File: ../media/logotipo_ipn.png Graphic file (type png)
 <use ../media/logotipo_ipn.png>
 Package pdftex.def Info: ../media/logotipo_ipn.png  used on input line 5.
 (pdftex.def)             Requested size: 174.13034pt x 186.56331pt.
-<../media/logoESCOM.png, id=88, 262.9825pt x 200.75pt>
+<../media/logoESCOM.png, id=92, 262.9825pt x 200.75pt>
 File: ../media/logoESCOM.png Graphic file (type png)
 <use ../media/logoESCOM.png>
 Package pdftex.def Info: ../media/logoESCOM.png  used on input line 10.
@@ -969,7 +969,7 @@ Package pdftex.def Info: ../media/logoESCOM.png  used on input line 10.
 LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
 (Font)              using `OT1/cmr/bx/n' instead on input line 15.
 
-<./img/pop_os.png, id=89, 204.765pt x 247.92625pt>
+<./img/pop_os.png, id=93, 204.765pt x 247.92625pt>
 File: ./img/pop_os.png Graphic file (type png)
 <use ./img/pop_os.png>
 Package pdftex.def Info: ./img/pop_os.png  used on input line 19.
@@ -1030,7 +1030,7 @@ l.46   \clearpage
                   [1
 
 ] (./Seccion1.tex
-<./img/revision_linux-hardware.jpeg, id=118, 963.6pt x 517.935pt>
+<./img/revision_linux-hardware.jpeg, id=123, 963.6pt x 517.935pt>
 File: ./img/revision_linux-hardware.jpeg Graphic file (type jpg)
 <use ./img/revision_linux-hardware.jpeg>
 Package pdftex.def Info: ./img/revision_linux-hardware.jpeg  used on input line
@@ -1103,7 +1103,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 ) (./Seccion2.tex
-<img/download_popos.jpeg, id=126, 963.6pt x 517.935pt>
+<img/download_popos.jpeg, id=131, 963.6pt x 517.935pt>
 File: img/download_popos.jpeg Graphic file (type jpg)
 <use img/download_popos.jpeg>
 Package pdftex.def Info: img/download_popos.jpeg  used on input line 16.
@@ -1128,7 +1128,7 @@ Package fancyhdr Warning: \headheight is too small (40.2pt):
 [3
 
  <./img/download_popos.jpeg>]
-<img/download_rufus.jpeg, id=133, 963.6pt x 517.935pt>
+<img/download_rufus.jpeg, id=138, 963.6pt x 517.935pt>
 File: img/download_rufus.jpeg Graphic file (type jpg)
 <use img/download_rufus.jpeg>
 Package pdftex.def Info: img/download_rufus.jpeg  used on input line 30.
@@ -1138,7 +1138,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--41
 
  []
 
-<img/usb_boot.jpeg, id=134, 380.92313pt x 405.01312pt>
+<img/usb_boot.jpeg, id=139, 380.92313pt x 405.01312pt>
 File: img/usb_boot.jpeg Graphic file (type jpg)
 <use img/usb_boot.jpeg>
 Package pdftex.def Info: img/usb_boot.jpeg  used on input line 51.
@@ -1176,12 +1176,12 @@ Package fancyhdr Warning: \headheight is too small (40.2pt):
 [4
 
  <./img/download_rufus.jpeg> <./img/usb_boot.jpeg>]
-<img/pop_os_desktop.jpeg, id=147, 1879.02pt x 4175.6pt>
+<img/pop_os_desktop.jpeg, id=152, 1879.02pt x 4175.6pt>
 File: img/pop_os_desktop.jpeg Graphic file (type jpg)
 <use img/pop_os_desktop.jpeg>
 Package pdftex.def Info: img/pop_os_desktop.jpeg  used on input line 68.
 (pdftex.def)             Requested size: 120.92421pt x 268.6838pt.
-<img/particionado.jpeg, id=148, 4175.6pt x 1879.02pt>
+<img/particionado.jpeg, id=153, 4175.6pt x 1879.02pt>
 File: img/particionado.jpeg Graphic file (type jpg)
 <use img/particionado.jpeg>
 Package pdftex.def Info: img/particionado.jpeg  used on input line 97.
@@ -1235,20 +1235,14 @@ LaTeX Info: Redefining \% on input line 26.
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-
-Package rerunfilecheck Warning: File `Tarea1.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Tarea1.out':
-(rerunfilecheck)             Before: E26D8A5858413BB783BE5423D5744810;1977
-(rerunfilecheck)             After:  27954DF994FD6295288D87CC3017D17A;2081.
+Package rerunfilecheck Info: File `Tarea1.out' has not changed.
+(rerunfilecheck)             Checksum: 27954DF994FD6295288D87CC3017D17A;2081.
  ) 
 Here is how much of TeX's memory you used:
- 33540 strings out of 478287
- 677145 string characters out of 5849289
+ 33541 strings out of 478287
+ 677156 string characters out of 5849289
  1188635 words of memory out of 5000000
- 51140 multiletter control sequences out of 15000+600000
+ 51141 multiletter control sequences out of 15000+600000
  474925 words of font info for 48 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  97i,15n,104p,1009b,1291s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1260,10 +1254,10 @@ xmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/
 public/amsfonts/cm/cmtt9.pfb>
-Output written on Tarea1.pdf (7 pages, 1978451 bytes).
+Output written on Tarea1.pdf (7 pages, 1979077 bytes).
 PDF statistics:
- 213 PDF objects out of 1000 (max. 8388607)
- 150 compressed objects within 2 object streams
+ 217 PDF objects out of 1000 (max. 8388607)
+ 154 compressed objects within 2 object streams
  35 named destinations out of 1000 (max. 500000)
- 290 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 298 words of extra memory for PDF output out of 10000 (max. 10000000)
 
